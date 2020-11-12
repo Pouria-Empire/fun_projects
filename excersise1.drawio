@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T14:36:46.333Z" agent="5.0 (Windows)" etag="afeWn17Es4c5f8b0r-Sy" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T14:39:04.524Z" agent="5.0 (Windows)" etag="AHleNsFigKYeuKBlmu_8" version="13.9.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
         <mxCell id="irV0QH4pS9CSHNHQbzm--63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="irV0QH4pS9CSHNHQbzm--5" target="irV0QH4pS9CSHNHQbzm--62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="irV0QH4pS9CSHNHQbzm--5" value="check if i&amp;lt;n" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="irV0QH4pS9CSHNHQbzm--5" value="check if i&amp;lt;=n/2" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="590" y="560" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="irV0QH4pS9CSHNHQbzm--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="irV0QH4pS9CSHNHQbzm--11" target="irV0QH4pS9CSHNHQbzm--20" edge="1">
